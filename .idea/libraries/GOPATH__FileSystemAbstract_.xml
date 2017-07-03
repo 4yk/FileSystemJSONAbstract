@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;FileSystemAbstract&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/go/src/1cTCPClient" />
+      <root url="file://$USER_HOME$/go/src/gopkg.in" />
+      <root url="file://$USER_HOME$/go/src/1cTCPIP" />
+      <root url="file://$USER_HOME$/go/src/github.com" />
+      <root url="file://$USER_HOME$/go/src/BaseCreate" />
+      <root url="file://$USER_HOME$/go/src/htmlPArser" />
+      <root url="file://$USER_HOME$/go/src/XLSParse" />
+      <root url="file://$USER_HOME$/go/src/1cCom" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$USER_HOME$/go/src/1cTCPClient" />
+      <root url="file://$USER_HOME$/go/src/gopkg.in" />
+      <root url="file://$USER_HOME$/go/src/1cTCPIP" />
+      <root url="file://$USER_HOME$/go/src/github.com" />
+      <root url="file://$USER_HOME$/go/src/BaseCreate" />
+      <root url="file://$USER_HOME$/go/src/htmlPArser" />
+      <root url="file://$USER_HOME$/go/src/XLSParse" />
+      <root url="file://$USER_HOME$/go/src/1cCom" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
